@@ -19,7 +19,8 @@
 #include<istream>
 #include <iostream>
 #include <cctype>
-
-
+#include <cppunit/TestFixture.h>
+#include <cppunit/extensions/HelperMacros.h>
+#include <cppunit/ui/text/TestRunner.h>
 
 // TODO: reference additional headers your program requires here
